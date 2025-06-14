@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YubinShin/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/YubinShin/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/YubinShin/leet-code/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YubinShin/leet-code/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
