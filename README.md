@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/YubinShin/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/YubinShin/leet-code/tree/master/0344-reverse-string) |
+| [0974-reorder-data-in-log-files](https://github.com/YubinShin/leet-code/tree/master/0974-reorder-data-in-log-files) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YubinShin/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/YubinShin/leet-code/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/YubinShin/leet-code/tree/master/0739-daily-temperatures) |
+| [0974-reorder-data-in-log-files](https://github.com/YubinShin/leet-code/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YubinShin/leet-code/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/YubinShin/leet-code/tree/master/0561-array-partition) |
+| [0974-reorder-data-in-log-files](https://github.com/YubinShin/leet-code/tree/master/0974-reorder-data-in-log-files) |
 ## Stack
 |  |
 | ------- |
