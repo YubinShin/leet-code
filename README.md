@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/YubinShin/leet-code/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YubinShin/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/YubinShin/leet-code/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/YubinShin/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/YubinShin/leet-code/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/YubinShin/leet-code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
