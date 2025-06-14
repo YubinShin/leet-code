@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YubinShin/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/YubinShin/leet-code/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/YubinShin/leet-code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YubinShin/leet-code/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YubinShin/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/YubinShin/leet-code/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/YubinShin/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/YubinShin/leet-code/tree/master/0344-reverse-string) |
 | [0974-reorder-data-in-log-files](https://github.com/YubinShin/leet-code/tree/master/0974-reorder-data-in-log-files) |
