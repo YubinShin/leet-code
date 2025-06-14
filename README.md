@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YubinShin/leet-code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/YubinShin/leet-code/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/YubinShin/leet-code/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YubinShin/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YubinShin/leet-code/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/YubinShin/leet-code/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
