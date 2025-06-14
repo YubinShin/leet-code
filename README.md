@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/YubinShin/leet-code/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YubinShin/leet-code/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YubinShin/leet-code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
