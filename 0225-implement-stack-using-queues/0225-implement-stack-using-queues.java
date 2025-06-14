@@ -5,7 +5,7 @@ class MyStack {
     }
     
         // 큐 변수, 구현체는 LinkedList로 선언
-        Queue<Integer> queue = new ArrayDeque<>();
+        Queue<Integer> queue = new LinkedList<>();
 
         public void push(int x) {
             // 엘리먼트 삽입
