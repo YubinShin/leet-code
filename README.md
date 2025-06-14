@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/YubinShin/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/YubinShin/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/YubinShin/leet-code/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/YubinShin/leet-code/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/YubinShin/leet-code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/YubinShin/leet-code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
