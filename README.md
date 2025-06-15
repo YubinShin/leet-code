@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YubinShin/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/YubinShin/leet-code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YubinShin/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YubinShin/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YubinShin/leet-code/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YubinShin/leet-code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YubinShin/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
